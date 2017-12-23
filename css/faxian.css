@@ -1,0 +1,71 @@
+/*内容*/
+body{
+	width: 100%;
+	height: 100%;
+	background: #ebebeb;
+}
+.center{
+	width:7.2rem;
+	padding-top: 0.96rem;
+}
+.center ul{
+	width:7.2rem;
+}
+.ul-xia li{
+	width: 7.2rem;
+	height: 0.95rem;
+	line-height: 0.95rem;
+	background: #ffffff;
+}
+.ul-xia li div{
+	margin-left: 0.28rem;
+	width: 6.64rem;
+	height: 0.95rem;
+}
+.ul-xia .tupian{
+	display: inline-block;
+	height: 0.88rem;
+	width: 0.83rem;
+	
+	margin-left: 3.9rem;
+	
+}
+.ul-xia li img{
+	margin-bottom: 0.1rem;
+	width: 0.65rem;
+	height: 0.65rem;
+}
+.ul-xia li p{
+	display: inline-block;
+	width: 0.8rem;
+	height: 0.95rem;
+	text-align: center;
+
+}
+.ul-xia li span{
+	display: inline-block;
+	margin-left: 0.24rem;
+	font-size: 0.28rem;
+	text-align: left;
+	height: 0.95rem;
+	
+}
+.ul-xia li:nth-child(1){
+	margin-top: 0.42rem;
+}
+.ul-xia li:nth-child(2) {
+	margin-top: 0.42rem;
+}
+.ul-xia li:nth-child(4) {
+	margin-top: 0.42rem;
+}
+.ul-xia li:nth-child(6){
+	margin-top: 0.42rem;
+}
+.ul-xia li:nth-child(8){
+	margin-top: 0.42rem;
+}
+
+
+
+

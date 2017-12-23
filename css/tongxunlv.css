@@ -1,0 +1,62 @@
+
+/*内容*/
+.center{
+	width:7.2rem;
+	margin-top: 0.96rem;
+}
+.center .ul-biao{
+	position: fixed;
+	right: 0;
+	font-size: 0.267rem;
+	text-align: center;
+}
+.zimu{
+	text-indent: 1.5em;
+	width: 7.2rem;
+	height: 0.46rem;
+	line-height: 0.46rem;
+	font-size: 0.25rem;
+	background:#ebebeb;
+}
+
+.center .con1{
+	width:7.2rem;
+}
+.center .con1 li{
+	width:7.2rem;
+	height: 1.08rem;
+}
+.center .con1 li div{
+	margin-left: 0.28rem;
+	width:91%;
+	height: 1.08rem;
+	box-sizing: border-box;
+	border-bottom: 0.01rem solid #d6d6d6;
+}
+.con1 li:last-child div{
+	border: none;
+}
+.con1 li img{
+	margin-bottom: 0.1rem;
+	width: 0.74rem;
+	height: 0.74rem;
+}
+.con1 li p{
+	display: inline-block;
+	width: 1.05rem;
+	height: 1.08rem;
+	text-align: left;
+}
+.con1  li span{
+	font-size: 0.25rem;
+	text-align: left;
+	height: 1.08rem;
+	line-height: 1.08rem;
+}
+
+
+
+
+
+
+

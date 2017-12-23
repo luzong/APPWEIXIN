@@ -1,0 +1,75 @@
+/*头部*/
+.tou{
+	width: 7.2rem;
+	height: 0.96rem;
+	line-height: 0.96rem;
+	position: fixed;
+	top: 0;
+	z-index: 10;
+	text-align: center;
+	background: #393a3f;
+	color: #fff;
+	font-size: 0.35rem;
+}
+.tou ul{
+	width: 7.2rem;
+	height: 0.96rem;
+}
+.tou ul li{
+	float: left;
+	width: 1.3rem;
+}
+.tou ul li:nth-child(2){
+	font-size: 0.40rem;
+	margin-left: 3.3rem;
+	margin-top: -0.03rem;
+}
+.tou ul li:nth-child(3){
+	font-size: 0.45rem;
+}
+
+
+/*我是分割线*/
+.xian{
+	box-sizing: border-box;
+	border-bottom: 0.01rem solid #d6d6d6;
+}
+
+
+/*尾部*/
+.footer{
+	position: fixed;
+	bottom: 0;
+	width: 7.2rem;
+	height: 1.06rem;
+	line-height: 0.4rem;
+	z-index: 10;
+	background: #fcfcfc;
+	text-align: center;
+	box-sizing: border-box;
+	border-top: 0.02rem solid #d6d6d6;
+	color: #999999;
+	font-size: 0.2rem;
+	margin-top: 1.08rem;
+}
+.footer .yanse{
+	color: #46c01b;
+}
+.footer ul{
+	width: 7.2rem;
+	height: 1.08rem;
+}
+.footer ul li{
+	width: 1.8rem;
+	float: left;
+}
+.footer .gaole{
+	height: 0.47rem;
+	width: 0.58rem;
+	margin-top: 0.12rem;
+}
+.footer li img{
+	height: 0.44rem;
+	width: 0.55rem;
+	margin-top: 0.15rem;
+}

@@ -1,0 +1,104 @@
+/*内容*/
+.center{
+	width:7.2rem;
+	height: 1.3rem;
+	margin-top: 0.96rem;
+}
+.center ul{
+	width:7.2rem;
+	height: 1.28rem;
+	box-sizing: border-box;
+	border-bottom: 0.01rem solid #d6d6d6;
+}
+.center ul li{
+	float: left;
+	margin: 0 auto;
+}
+
+.center ul li p{
+	margin-top: 0.25rem;
+	font-size: 0.3rem;
+	color: #000;
+}
+.center ul li span{
+	line-height: 0.5rem;
+	font-size: 0.25rem;
+	color: #999999;
+}
+.center ul li:nth-child(1) img{
+	margin-top: 0.1rem;
+	width: 1.1rem;
+	height: 1.1rem;
+}
+.center ul li:nth-child(3) img{
+
+	margin-left: 0.28rem;
+	width: 0.6rem;
+	height: 0.6rem;
+}
+.center ul li:nth-child(1){
+	text-align: center;
+	width: 1.5rem;
+}
+.center ul li:nth-child(2){
+	width: 4.6rem;
+	text-align: left;
+}
+.center ul li:nth-child(3){
+	text-align: center;
+	width: 1.1rem;
+	color: #999999;
+	margin-top: 0.25rem;
+	font-size: 0.2rem;;
+}
+.yu-tu{
+	width:0.45rem;
+	height: 0.3rem;
+}
+.jr-tu{
+	width:0.65rem;
+	height: 0.35rem;
+}
+.footer{
+	position: fixed;
+	bottom: 0;
+	width: 7.2rem;
+	height: 1.06rem;
+	line-height: 0.4rem;
+	z-index: 10;
+	background: #fcfcfc;
+	text-align: center;
+	box-sizing: border-box;
+	border-top: 0.02rem solid #d6d6d6;
+	color: #999999;
+	font-size: 0.2rem;
+	margin-top: 1.08rem;
+}
+.footer .yanse{
+	color: #46c01b;
+}
+.footer ul{
+	width: 7.2rem;
+	height: 1.08rem;
+}
+.footer ul li{
+	width: 1.8rem;
+	float: left;
+}
+.footer .gaole{
+	height: 0.47rem;
+	width: 0.58rem;
+	margin-top: 0.12rem;
+}
+.footer li img{
+	height: 0.44rem;
+	width: 0.55rem;
+	margin-top: 0.15rem;
+}
+
+
+
+
+
+
+
