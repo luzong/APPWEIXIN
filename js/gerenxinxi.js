@@ -4,7 +4,6 @@ $("#ggmz").click(function(){
 })
 var value = $.query.get("value");
 
-	$(".xy").text(value);	
-
-
-console.log(location.href)
+if(value!=''){
+   $(".xy").text(value);	
+   }
